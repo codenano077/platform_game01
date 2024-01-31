@@ -1,6 +1,6 @@
 # Platformer Game01
 
-![Game Screenshot](screenshot.png)
+![Game Screenshot](Game play.png)
 
 Welcome to the  Platformer Game! This exciting platform game provides a thrilling adventure full of jumps, obstacles, and challenges. Get ready to explore a vibrant world, defeat enemies, and conquer tricky levels!
 
@@ -27,7 +27,7 @@ Welcome to the  Platformer Game! This exciting platform game provides a thrillin
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
+![Screenshot 1](Game_view.png)
 **
 
 ![Screenshot 2](screenshots/screenshot2.png)
