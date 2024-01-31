@@ -1,6 +1,6 @@
 # Platformer Game01
 
-![Game Screenshot](https://github.dev/codenano077/platform_game01/blob/main/Game%20play.png)
+![Game Screenshot](https://github.com/codenano077/platform_game01/blob/main/Game%20play.png)
 
 Welcome to the  Platformer Game! This exciting platform game provides a thrilling adventure full of jumps, obstacles, and challenges. Get ready to explore a vibrant world, defeat enemies, and conquer tricky levels!
 
@@ -31,6 +31,6 @@ Welcome to the  Platformer Game! This exciting platform game provides a thrillin
 *The scene view in editor*
 
 
-![Screenshot 2](https://github.dev/codenano077/platform_game01/blob/main/Game%20play.png)
+![Screenshot 2](https://github.com/codenano077/platform_game01/blob/main/Game%20play.png)
 *Game play view*
 
