@@ -36,7 +36,7 @@ Welcome to the  Platformer Game! This exciting platform game provides a thrillin
 
 
 ## Game Play 
-<video src="path/to/video.mp4" width="320" height="240" controls></video>
+![video]()
 
 
 
