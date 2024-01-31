@@ -27,7 +27,7 @@ Welcome to the  Platformer Game! This exciting platform game provides a thrillin
 
 ## Screenshots
 
-![Screenshot 1](https://github.dev/codenano077/platform_game01/blob/main/Game_veiw.png)
+![Screenshot 1](https://github.com/codenano077/platform_game01/blob/main/Game_veiw.png)
 *Caption for Screenshot 1*
 
 
