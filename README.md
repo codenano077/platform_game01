@@ -37,7 +37,7 @@ Welcome to the  Platformer Game! This exciting platform game provides a thrillin
 
 ## Game Play 
 
-[![Gameplay Video](https://raw.githubusercontent.com/codenano077/platformer_game01/main/platform_game_01.mp4)](https://raw.githubusercontent.com/codenano077/platformer_game01/main/platform_game_01.mp4)
+[![Gameplay Video](https://github.dev/codenano077/platform_game01/blob/main/platform_game_01.mp4)](https://github.dev/codenano077/platform_game01/blob/main/platform_game_01.mp4)
 
 
 
