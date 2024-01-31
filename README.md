@@ -27,7 +27,7 @@ Welcome to the  Platformer Game! This exciting platform game provides a thrillin
 
 ## Screenshots
 
-![Screenshot 1](Game_view.png)
+![Screenshot 1](platform_game01/Game play.png)
 **
 
 ![Screenshot 2](screenshots/screenshot2.png)
