@@ -36,8 +36,8 @@ Welcome to the  Platformer Game! This exciting platform game provides a thrillin
 
 
 ## Game Play 
+<video src="path/to/video.mp4" width="320" height="240" controls></video>
 
-[![Gameplay Video](https://github.dev/codenano077/platform_game01/blob/main/platform_game_01.mp4)](https://github.dev/codenano077/platform_game01/blob/main/platform_game_01.mp4)
 
 
 
